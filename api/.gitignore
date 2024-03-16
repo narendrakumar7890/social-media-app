@@ -8,6 +8,11 @@
 # testing
 /coverage
 
+# phpstorm project files
+.idea
+idea
+npm-debug.log
+
 # production
 /build
 
